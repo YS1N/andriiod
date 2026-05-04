@@ -1,1 +1,44 @@
-# andriiod
+# Bus Transit Management App
+
+## How to navigate through the app:
+
+### 1) Login Screen
+- Sign in with Google
+
+
+### 2) Role Selection Screen
+- Select either **Admin**, **Driver** or **Passenger**
+- You can enable **Remember my choice** option so the app remembers your role
+
+
+### 3) Administrator Panel
+- As an admin you can add a new bus route
+- You can enter the **Route Name**
+- Also, you can add a **Support Phone Number**
+- You can tap on the map to add multiple **Bus Stop** for the route
+- Once you're done you can **Save Route to Firebase**
+
+
+### 4) Driver Panel
+- As a driver you can **Select your Route**
+- You can see the **Passengers** that registered for a route and their location on the map 
+- You can **Start Tracking** to share your location with the passengers
+- You can **Stop Tracking** to stop sharing your location
+
+
+### 5) Passenger Panel
+- As a passenger you can select one of the **Routes** available to register for it
+- You can select which **Stop** you want the bus to pick you at
+- Change your status from **Waiting** to **On My Way** or **On Bus**
+- You can also **Share Location** with the driver
+- You can view the **Driver's Location** on the map
+- A **Proximity Alert** will trigger when the bus is within 500m of your stop
+
+
+
+
+## 🗄️ Firebase Database Structure
+*Below is a description/screenshot of the Realtime Database JSON:*
+
+- **rides/**: Stores live bus locations and passenger statuses.
+- **routes/**: Stores static bus stop coordinates.
