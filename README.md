@@ -29,6 +29,8 @@
 - You can **Start Tracking** to share your location with the passengers
 - You can **Stop Tracking** to stop sharing your location
 
+<img width="200" alt="driver" src="https://github.com/user-attachments/assets/760f05db-42ae-4c02-a6f5-a9a2dca10c39" />
+
 
 ### 5) Passenger Panel
 - As a passenger you can select one of the **Routes** available to register for it
@@ -37,6 +39,9 @@
 - You can also **Share Location** with the driver
 - You can view the **Driver's Location** on the map
 - A **Proximity Alert** will trigger when the bus is within 500m of your stop
+
+<img width="200" alt="passenger" src="https://github.com/user-attachments/assets/729c2b5d-3c60-47ff-9e58-de52d38f83b1" />
+
 
 
 
