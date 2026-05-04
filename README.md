@@ -48,3 +48,21 @@
 - A notification will appear when the bus is within 500m of the passenger
 
 ## Firebase Database Structure
+
+
+
+
+
+
+
+
+
+<img width="683" height="427" alt="Screenshot 2026-05-05 021913" src="https://github.com/user-attachments/assets/59d9df2f-512f-4477-8fcd-4211fa3bd8f6" />
+<img width="635" height="429" alt="Screenshot 2026-05-05 021900" src="https://github.com/user-attachments/assets/556d566a-198c-46d4-ad4d-dc95d7549ae4" />
+<img width="460" height="453" alt="Screenshot 2026-05-05 021846" src="https://github.com/user-attachments/assets/9a87682b-1971-4eaf-a30f-2dd8682066af" />
+<img width="521" height="298" alt="Screenshot 2026-05-05 021822" src="https://github.com/user-attachments/assets/94f08db0-25f4-4c50-863b-beb74bb405ad" />
+<img width="455" height="535" alt="Screenshot 2026-05-05 022003" src="https://github.com/user-attachments/assets/b44e69eb-ce0c-4b0c-be32-659b1db6c896" />
+<img width="473" height="545" alt="Screenshot 2026-05-05 021955" src="https://github.com/user-attachments/assets/9377623a-8b66-4ecd-8bd6-567561d32e96" />
+<img width="564" height="536" alt="Screenshot 2026-05-05 021946" src="https://github.com/user-attachments/assets/0358c4ff-e501-4f86-ad61-60802c083f8b" />
+<img width="448" height="401" alt="Screenshot 2026-05-05 021928" src="https://github.com/user-attachments/assets/44b9e7e7-4d78-453a-8131-73f21644ceb9" />
+
