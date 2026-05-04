@@ -5,10 +5,13 @@
 ### 1) Login Screen
 - Sign in with Google
 
+<img width="200" alt="login" src="https://github.com/user-attachments/assets/39499b65-912e-4b4f-87e9-ea758cbb6b22" />
 
 ### 2) Role Selection Screen
 - Select either **Admin**, **Driver** or **Passenger**
 - You can enable **Remember my choice** option so the app remembers your role
+
+<img width="200" alt="role" src="https://github.com/user-attachments/assets/73292294-a3fe-4c5f-b3b4-b53ad4730fb8" />
 
 
 ### 3) Administrator Panel
@@ -18,6 +21,7 @@
 - You can tap on the map to add multiple **Bus Stop** for the route
 - Once you're done you can **Save Route to Firebase**
 
+<img width="200" alt="admin" src="https://github.com/user-attachments/assets/e15d7d72-7162-4705-97b8-742deb7fe256" />
 
 ### 4) Driver Panel
 - As a driver you can **Select your Route**
