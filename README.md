@@ -42,12 +42,13 @@
 
 <img width="200" alt="passenger" src="https://github.com/user-attachments/assets/729c2b5d-3c60-47ff-9e58-de52d38f83b1" />
 
+### 6) Additional Features
+- Floating button that allows you to change the language **(AR/EN)**
+- When turning on **Airplane Mode** or when **Battery Percentage** is low a snackbar appears
+- A notification will appear when the bus is within 500m of the passenger
 
+## Firebase Database Structure
 
-
-
-## 🗄️ Firebase Database Structure
-*Below is a description/screenshot of the Realtime Database JSON:*
 
 - **rides/**: Stores live bus locations and passenger statuses.
 - **routes/**: Stores static bus stop coordinates.
