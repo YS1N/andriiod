@@ -48,6 +48,3 @@
 - A notification will appear when the bus is within 500m of the passenger
 
 ## Firebase Database Structure
-
-
-- **rides/**: Stores live bus 
