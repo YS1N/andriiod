@@ -50,5 +50,4 @@
 ## Firebase Database Structure
 
 
-- **rides/**: Stores live bus locations and passenger statuses.
-- **routes/**: Stores static bus stop coordinates.
+- **rides/**: Stores live bus 
